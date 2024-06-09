@@ -1,6 +1,3 @@
 # CodeAfricaChallege
 Code Africa Challege
-All files are on the same folder
-On Challege one, It is HTML and CSS files, you only need to open files on your IDE
-me I used Visual Studio Code and on challege 2 and challege 3 are javaScript files 
-you only need to press on run button and it will run on console 
+Welcome to the Code Africa Challenge! This repository contains solutions for three challenges involving HTML, CSS, and JavaScript. All files are in the same folder. Challenge 1 includes index.html and styles.css, which you can open in your preferred IDE (we recommend Visual Studio Code). For Challenges 2 and 3, which involve challenge2.js and challenge3.js, you can run the JavaScript files in your IDE or terminal. To get started, clone the repository (git clone https://github.com/shemaroger/CodeAfricaChalleges) and open the project folder.  Ensure you have Node.js installed to run the JavaScript files (node challenge2.js or node challenge3.js). 
